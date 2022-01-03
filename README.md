@@ -1,5 +1,5 @@
 # SynapseLabrat
-SCP Labrat Alpha Plugin Loader
+SCP Labrat Alpha Mod Loader
 
 # Installation
 1. Download the zip file
